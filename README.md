@@ -9,6 +9,8 @@ uv sync
 source .venv/bin/activate
 ```
 
+Добавляем kernel .venv в VS Code.
+
 # Автор
 
 [Nick Osipov](http://t.me/NickOsipov)
